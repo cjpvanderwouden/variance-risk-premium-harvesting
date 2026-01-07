@@ -23,7 +23,7 @@ Filters are catastrophe insurance. They pay off when (a) the spike is severe eno
 
 ```
 ├── vrp_stage[1-4].ipynb   # Analysis notebooks
-├── vrp_writeup.pdf        # Full paper (19 pages)
+├── vrp_writeup.pdf        # Paper Writeup
 └── figures/               # All figures
 ```
 
