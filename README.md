@@ -27,7 +27,7 @@ Filters are catastrophe insurance. They pay off when (a) the spike is severe eno
 └── figures/               # All figures
 ```
 
-## References
+## Key References
 
 - Carr & Wu (2009). Variance risk premiums. *Review of Financial Studies*
 - Bollerslev, Tauchen & Zhou (2009). Expected stock returns and variance risk premia. *Review of Financial Studies*
